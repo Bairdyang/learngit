@@ -5,4 +5,5 @@ Git tracks changes of files.
 
 fenzhi gaunli.
 
-git stash shiyan
+add merge 
+bug 101
